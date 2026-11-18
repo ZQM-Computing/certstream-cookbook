@@ -35,6 +35,8 @@ Engineers who watch certificate transparency for new domains and certs.
 
 ## Patterns (planned)
 
+**Nothing below exists yet.**
+
 | # | Example | What it will demonstrate |
 |---|---------|--------------------------|
 | 01 | `01-first-stream` | Connecting to the feed and reading messages |
